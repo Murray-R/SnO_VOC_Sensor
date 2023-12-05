@@ -3,5 +3,5 @@ STL files for Room temperature sensing of volatile organic compounds using hybri
 
 Attached are .stl 3D model files for the paper entitled "Room temperature sensing of volatile organic compounds using hybrid SnO nanoflower and Laser-Induced Graphitic carbon devices"
 
-The DOI will be included here: XX
-At the point of publication
+The DOI for the preprint is: https://doi.org/10.26434/chemrxiv-2023-xk0cp)https://doi.org/10.26434/chemrxiv-2023-xk0cp
+
